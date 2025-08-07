@@ -1,0 +1,8 @@
+messages:
+  ban: "&c{player} has been banned. Reason: {reason}"
+  unban: "&a{player} has been unbanned."
+  kick: "&c{player} has been kicked. Reason: {reason}"
+  mute: "&e{player} has been muted."
+  unmute: "&a{player} has been unmuted."
+  freeze: "&b{player} has been frozen."
+  unfreeze: "&a{player} has been unfrozen."

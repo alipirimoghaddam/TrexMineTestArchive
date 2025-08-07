@@ -1,0 +1,17 @@
+name: SimpleBanTrexMine
+version: '1-test'
+main: com.alizone.simpleBanTrexMine.SimpleBanTrexMine
+api-version: '1.21'
+commands:
+  ban:
+    usage: /ban <player> <reason>
+  unban:
+    usage: /unban <player>
+  kick:
+    usage: /kick <player> <reason>
+  mute:
+    usage: /mute <player>
+  unmute:
+    usage: /unmute <player>
+  freeze:
+    usage: /freeze <player>

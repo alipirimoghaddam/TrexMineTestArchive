@@ -1,0 +1,10 @@
+com\alizone\simpleBanTrexMine\commands\UnbanCommand.class
+com\alizone\simpleBanTrexMine\commands\UnmuteCommand.class
+com\alizone\simpleBanTrexMine\SimpleBanTrexMine.class
+com\alizone\simpleBanTrexMine\commands\FreezeCommand.class
+com\alizone\simpleBanTrexMine\commands\BanCommand.class
+com\alizone\simpleBanTrexMine\commands\MuteCommand.class
+com\alizone\simpleBanTrexMine\commands\FreezeCommand$1.class
+com\alizone\simpleBanTrexMine\listeners\ChatListener.class
+com\alizone\simpleBanTrexMine\commands\KickCommand.class
+com\alizone\simpleBanTrexMine\listeners\MovementListener.class
